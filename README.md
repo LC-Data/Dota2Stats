@@ -6,3 +6,5 @@ If you choose to take up this project as your own, update relevant xpaths and re
 
 
 Dota 2 stat tracking/analysis program! Compare match statistics to one another and more.
+
+Scraped with lxml and requests libraries from Python, no Scrapy involved.
